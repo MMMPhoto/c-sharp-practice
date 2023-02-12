@@ -1,0 +1,15 @@
+/Users/maxmcdonough/Projects/c-sharp-practice/bouncing-ball/bin/Debug/net7.0/bouncing-ball
+/Users/maxmcdonough/Projects/c-sharp-practice/bouncing-ball/bin/Debug/net7.0/bouncing-ball.deps.json
+/Users/maxmcdonough/Projects/c-sharp-practice/bouncing-ball/bin/Debug/net7.0/bouncing-ball.runtimeconfig.json
+/Users/maxmcdonough/Projects/c-sharp-practice/bouncing-ball/bin/Debug/net7.0/bouncing-ball.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/bouncing-ball/bin/Debug/net7.0/bouncing-ball.pdb
+/Users/maxmcdonough/Projects/c-sharp-practice/bouncing-ball/obj/Debug/net7.0/bouncing-ball.csproj.AssemblyReference.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/bouncing-ball/obj/Debug/net7.0/bouncing-ball.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxmcdonough/Projects/c-sharp-practice/bouncing-ball/obj/Debug/net7.0/bouncing-ball.AssemblyInfoInputs.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/bouncing-ball/obj/Debug/net7.0/bouncing-ball.AssemblyInfo.cs
+/Users/maxmcdonough/Projects/c-sharp-practice/bouncing-ball/obj/Debug/net7.0/bouncing-ball.csproj.CoreCompileInputs.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/bouncing-ball/obj/Debug/net7.0/bouncing-ball.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/bouncing-ball/obj/Debug/net7.0/refint/bouncing-ball.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/bouncing-ball/obj/Debug/net7.0/bouncing-ball.pdb
+/Users/maxmcdonough/Projects/c-sharp-practice/bouncing-ball/obj/Debug/net7.0/bouncing-ball.genruntimeconfig.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/bouncing-ball/obj/Debug/net7.0/ref/bouncing-ball.dll

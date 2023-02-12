@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "bouncing-ball/1.0.0": {
+        "runtime": {
+          "bouncing-ball.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bouncing-ball/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
