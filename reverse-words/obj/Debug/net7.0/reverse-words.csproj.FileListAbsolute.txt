@@ -1,0 +1,15 @@
+/Users/maxmcdonough/Projects/c-sharp-practice/reverse-words/obj/Debug/net7.0/reverse-words.csproj.AssemblyReference.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/reverse-words/obj/Debug/net7.0/reverse-words.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxmcdonough/Projects/c-sharp-practice/reverse-words/obj/Debug/net7.0/reverse-words.AssemblyInfoInputs.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/reverse-words/obj/Debug/net7.0/reverse-words.AssemblyInfo.cs
+/Users/maxmcdonough/Projects/c-sharp-practice/reverse-words/obj/Debug/net7.0/reverse-words.csproj.CoreCompileInputs.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/reverse-words/bin/Debug/net7.0/reverse-words
+/Users/maxmcdonough/Projects/c-sharp-practice/reverse-words/bin/Debug/net7.0/reverse-words.deps.json
+/Users/maxmcdonough/Projects/c-sharp-practice/reverse-words/bin/Debug/net7.0/reverse-words.runtimeconfig.json
+/Users/maxmcdonough/Projects/c-sharp-practice/reverse-words/bin/Debug/net7.0/reverse-words.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/reverse-words/bin/Debug/net7.0/reverse-words.pdb
+/Users/maxmcdonough/Projects/c-sharp-practice/reverse-words/obj/Debug/net7.0/reverse-words.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/reverse-words/obj/Debug/net7.0/refint/reverse-words.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/reverse-words/obj/Debug/net7.0/reverse-words.pdb
+/Users/maxmcdonough/Projects/c-sharp-practice/reverse-words/obj/Debug/net7.0/reverse-words.genruntimeconfig.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/reverse-words/obj/Debug/net7.0/ref/reverse-words.dll
