@@ -1,0 +1,15 @@
+/Users/maxmcdonough/Projects/c-sharp-practice/mumbling/bin/Debug/net7.0/mumbling
+/Users/maxmcdonough/Projects/c-sharp-practice/mumbling/bin/Debug/net7.0/mumbling.deps.json
+/Users/maxmcdonough/Projects/c-sharp-practice/mumbling/bin/Debug/net7.0/mumbling.runtimeconfig.json
+/Users/maxmcdonough/Projects/c-sharp-practice/mumbling/bin/Debug/net7.0/mumbling.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/mumbling/bin/Debug/net7.0/mumbling.pdb
+/Users/maxmcdonough/Projects/c-sharp-practice/mumbling/obj/Debug/net7.0/mumbling.csproj.AssemblyReference.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/mumbling/obj/Debug/net7.0/mumbling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxmcdonough/Projects/c-sharp-practice/mumbling/obj/Debug/net7.0/mumbling.AssemblyInfoInputs.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/mumbling/obj/Debug/net7.0/mumbling.AssemblyInfo.cs
+/Users/maxmcdonough/Projects/c-sharp-practice/mumbling/obj/Debug/net7.0/mumbling.csproj.CoreCompileInputs.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/mumbling/obj/Debug/net7.0/mumbling.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/mumbling/obj/Debug/net7.0/refint/mumbling.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/mumbling/obj/Debug/net7.0/mumbling.pdb
+/Users/maxmcdonough/Projects/c-sharp-practice/mumbling/obj/Debug/net7.0/mumbling.genruntimeconfig.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/mumbling/obj/Debug/net7.0/ref/mumbling.dll

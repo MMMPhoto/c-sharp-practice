@@ -4,8 +4,7 @@ using System.Collections.Generic;
 
 class CamelCase {
   static void Main() {
-    static string BreakCamelCase(string str)
-    {
+    static string BreakCamelCase(string str) {
       char[] arr = str.ToCharArray();
       List<int> caps = new List<int>(); 
       for (int i = 0; i < arr.Length; i++) {
