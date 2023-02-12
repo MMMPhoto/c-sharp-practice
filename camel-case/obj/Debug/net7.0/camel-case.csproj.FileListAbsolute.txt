@@ -5,8 +5,6 @@
 /Users/maxmcdonough/Projects/c-sharp-practice/camel-case/bin/Debug/net7.0/camel-case.pdb
 /Users/maxmcdonough/Projects/c-sharp-practice/camel-case/obj/Debug/net7.0/camel-case.csproj.AssemblyReference.cache
 /Users/maxmcdonough/Projects/c-sharp-practice/camel-case/obj/Debug/net7.0/camel-case.GeneratedMSBuildEditorConfig.editorconfig
-/Users/maxmcdonough/Projects/c-sharp-practice/camel-case/obj/Debug/net7.0/camel-case.AssemblyInfoInputs.cache
-/Users/maxmcdonough/Projects/c-sharp-practice/camel-case/obj/Debug/net7.0/camel-case.AssemblyInfo.cs
 /Users/maxmcdonough/Projects/c-sharp-practice/camel-case/obj/Debug/net7.0/camel-case.csproj.CoreCompileInputs.cache
 /Users/maxmcdonough/Projects/c-sharp-practice/camel-case/obj/Debug/net7.0/camel-case.dll
 /Users/maxmcdonough/Projects/c-sharp-practice/camel-case/obj/Debug/net7.0/refint/camel-case.dll
