@@ -1,0 +1,5 @@
+/Users/maxmcdonough/Projects/c-sharp-practice/parse-int/obj/Debug/net7.0/parse-int.csproj.AssemblyReference.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/parse-int/obj/Debug/net7.0/parse-int.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxmcdonough/Projects/c-sharp-practice/parse-int/obj/Debug/net7.0/parse-int.AssemblyInfoInputs.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/parse-int/obj/Debug/net7.0/parse-int.AssemblyInfo.cs
+/Users/maxmcdonough/Projects/c-sharp-practice/parse-int/obj/Debug/net7.0/parse-int.csproj.CoreCompileInputs.cache

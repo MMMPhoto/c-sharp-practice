@@ -1,0 +1,15 @@
+/Users/maxmcdonough/Projects/c-sharp-practice/consecutive-strings/obj/Debug/net7.0/consecutive-strings.csproj.AssemblyReference.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/consecutive-strings/obj/Debug/net7.0/consecutive-strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxmcdonough/Projects/c-sharp-practice/consecutive-strings/obj/Debug/net7.0/consecutive-strings.AssemblyInfoInputs.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/consecutive-strings/obj/Debug/net7.0/consecutive-strings.AssemblyInfo.cs
+/Users/maxmcdonough/Projects/c-sharp-practice/consecutive-strings/obj/Debug/net7.0/consecutive-strings.csproj.CoreCompileInputs.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/consecutive-strings/bin/Debug/net7.0/consecutive-strings
+/Users/maxmcdonough/Projects/c-sharp-practice/consecutive-strings/bin/Debug/net7.0/consecutive-strings.deps.json
+/Users/maxmcdonough/Projects/c-sharp-practice/consecutive-strings/bin/Debug/net7.0/consecutive-strings.runtimeconfig.json
+/Users/maxmcdonough/Projects/c-sharp-practice/consecutive-strings/bin/Debug/net7.0/consecutive-strings.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/consecutive-strings/bin/Debug/net7.0/consecutive-strings.pdb
+/Users/maxmcdonough/Projects/c-sharp-practice/consecutive-strings/obj/Debug/net7.0/consecutive-strings.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/consecutive-strings/obj/Debug/net7.0/refint/consecutive-strings.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/consecutive-strings/obj/Debug/net7.0/consecutive-strings.pdb
+/Users/maxmcdonough/Projects/c-sharp-practice/consecutive-strings/obj/Debug/net7.0/consecutive-strings.genruntimeconfig.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/consecutive-strings/obj/Debug/net7.0/ref/consecutive-strings.dll

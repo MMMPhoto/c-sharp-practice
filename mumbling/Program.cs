@@ -24,7 +24,6 @@ class Accum {
     Console.WriteLine(Accum("MjtkuBovqrU"));
     Console.WriteLine(Accum("EvidjUnokmM"));
     Console.WriteLine(Accum("HbideVbxncC"));
-
   }
 }
 
