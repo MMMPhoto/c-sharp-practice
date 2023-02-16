@@ -10,9 +10,9 @@
       "request": "launch",
       "preLaunchTask": "build",
       // If you have changed target frameworks, make sure to update the program path.
-      "program": "${workspaceFolder}/parse-int/bin/Debug/net7.0/parse-int.dll",
+      "program": "${workspaceFolder}/trailing-zeros/bin/Debug/net7.0/trailing-zeros.dll",
       "args": [],
-      "cwd": "${workspaceFolder}/parse-int",
+      "cwd": "${workspaceFolder}/trailing-zeros",
       // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
       "console": "internalConsole",
       "stopAtEntry": false

@@ -1,0 +1,15 @@
+/Users/maxmcdonough/Projects/c-sharp-practice/trailing-zeros/bin/Debug/net7.0/trailing-zeros
+/Users/maxmcdonough/Projects/c-sharp-practice/trailing-zeros/bin/Debug/net7.0/trailing-zeros.deps.json
+/Users/maxmcdonough/Projects/c-sharp-practice/trailing-zeros/bin/Debug/net7.0/trailing-zeros.runtimeconfig.json
+/Users/maxmcdonough/Projects/c-sharp-practice/trailing-zeros/bin/Debug/net7.0/trailing-zeros.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/trailing-zeros/bin/Debug/net7.0/trailing-zeros.pdb
+/Users/maxmcdonough/Projects/c-sharp-practice/trailing-zeros/obj/Debug/net7.0/trailing-zeros.csproj.AssemblyReference.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/trailing-zeros/obj/Debug/net7.0/trailing-zeros.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxmcdonough/Projects/c-sharp-practice/trailing-zeros/obj/Debug/net7.0/trailing-zeros.AssemblyInfoInputs.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/trailing-zeros/obj/Debug/net7.0/trailing-zeros.AssemblyInfo.cs
+/Users/maxmcdonough/Projects/c-sharp-practice/trailing-zeros/obj/Debug/net7.0/trailing-zeros.csproj.CoreCompileInputs.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/trailing-zeros/obj/Debug/net7.0/trailing-zeros.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/trailing-zeros/obj/Debug/net7.0/refint/trailing-zeros.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/trailing-zeros/obj/Debug/net7.0/trailing-zeros.pdb
+/Users/maxmcdonough/Projects/c-sharp-practice/trailing-zeros/obj/Debug/net7.0/trailing-zeros.genruntimeconfig.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/trailing-zeros/obj/Debug/net7.0/ref/trailing-zeros.dll
