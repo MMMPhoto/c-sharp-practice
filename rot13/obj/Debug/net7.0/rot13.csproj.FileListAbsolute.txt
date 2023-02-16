@@ -1,0 +1,15 @@
+/Users/maxmcdonough/Projects/c-sharp-practice/rot13/bin/Debug/net7.0/rot13
+/Users/maxmcdonough/Projects/c-sharp-practice/rot13/bin/Debug/net7.0/rot13.deps.json
+/Users/maxmcdonough/Projects/c-sharp-practice/rot13/bin/Debug/net7.0/rot13.runtimeconfig.json
+/Users/maxmcdonough/Projects/c-sharp-practice/rot13/bin/Debug/net7.0/rot13.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/rot13/bin/Debug/net7.0/rot13.pdb
+/Users/maxmcdonough/Projects/c-sharp-practice/rot13/obj/Debug/net7.0/rot13.csproj.AssemblyReference.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/rot13/obj/Debug/net7.0/rot13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxmcdonough/Projects/c-sharp-practice/rot13/obj/Debug/net7.0/rot13.AssemblyInfoInputs.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/rot13/obj/Debug/net7.0/rot13.AssemblyInfo.cs
+/Users/maxmcdonough/Projects/c-sharp-practice/rot13/obj/Debug/net7.0/rot13.csproj.CoreCompileInputs.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/rot13/obj/Debug/net7.0/rot13.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/rot13/obj/Debug/net7.0/refint/rot13.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/rot13/obj/Debug/net7.0/rot13.pdb
+/Users/maxmcdonough/Projects/c-sharp-practice/rot13/obj/Debug/net7.0/rot13.genruntimeconfig.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/rot13/obj/Debug/net7.0/ref/rot13.dll
