@@ -3,3 +3,13 @@
 /Users/maxmcdonough/Projects/c-sharp-practice/parse-int/obj/Debug/net7.0/parse-int.AssemblyInfoInputs.cache
 /Users/maxmcdonough/Projects/c-sharp-practice/parse-int/obj/Debug/net7.0/parse-int.AssemblyInfo.cs
 /Users/maxmcdonough/Projects/c-sharp-practice/parse-int/obj/Debug/net7.0/parse-int.csproj.CoreCompileInputs.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/parse-int/bin/Debug/net7.0/parse-int
+/Users/maxmcdonough/Projects/c-sharp-practice/parse-int/bin/Debug/net7.0/parse-int.deps.json
+/Users/maxmcdonough/Projects/c-sharp-practice/parse-int/bin/Debug/net7.0/parse-int.runtimeconfig.json
+/Users/maxmcdonough/Projects/c-sharp-practice/parse-int/bin/Debug/net7.0/parse-int.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/parse-int/bin/Debug/net7.0/parse-int.pdb
+/Users/maxmcdonough/Projects/c-sharp-practice/parse-int/obj/Debug/net7.0/parse-int.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/parse-int/obj/Debug/net7.0/refint/parse-int.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/parse-int/obj/Debug/net7.0/parse-int.pdb
+/Users/maxmcdonough/Projects/c-sharp-practice/parse-int/obj/Debug/net7.0/parse-int.genruntimeconfig.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/parse-int/obj/Debug/net7.0/ref/parse-int.dll

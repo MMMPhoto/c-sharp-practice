@@ -10,9 +10,9 @@
       "request": "launch",
       "preLaunchTask": "build",
       // If you have changed target frameworks, make sure to update the program path.
-      "program": "${workspaceFolder}/camel-case/bin/Debug/net7.0/camel-case.dll",
+      "program": "${workspaceFolder}/parse-int/bin/Debug/net7.0/parse-int.dll",
       "args": [],
-      "cwd": "${workspaceFolder}/camel-case",
+      "cwd": "${workspaceFolder}/parse-int",
       // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
       "console": "internalConsole",
       "stopAtEntry": false
