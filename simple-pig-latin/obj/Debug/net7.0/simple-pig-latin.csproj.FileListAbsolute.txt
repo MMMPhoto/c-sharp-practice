@@ -1,0 +1,15 @@
+/Users/maxmcdonough/Projects/c-sharp-practice/simple-pig-latin/obj/Debug/net7.0/simple-pig-latin.csproj.AssemblyReference.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/simple-pig-latin/obj/Debug/net7.0/simple-pig-latin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxmcdonough/Projects/c-sharp-practice/simple-pig-latin/obj/Debug/net7.0/simple-pig-latin.AssemblyInfoInputs.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/simple-pig-latin/obj/Debug/net7.0/simple-pig-latin.AssemblyInfo.cs
+/Users/maxmcdonough/Projects/c-sharp-practice/simple-pig-latin/obj/Debug/net7.0/simple-pig-latin.csproj.CoreCompileInputs.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/simple-pig-latin/bin/Debug/net7.0/simple-pig-latin
+/Users/maxmcdonough/Projects/c-sharp-practice/simple-pig-latin/bin/Debug/net7.0/simple-pig-latin.deps.json
+/Users/maxmcdonough/Projects/c-sharp-practice/simple-pig-latin/bin/Debug/net7.0/simple-pig-latin.runtimeconfig.json
+/Users/maxmcdonough/Projects/c-sharp-practice/simple-pig-latin/bin/Debug/net7.0/simple-pig-latin.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/simple-pig-latin/bin/Debug/net7.0/simple-pig-latin.pdb
+/Users/maxmcdonough/Projects/c-sharp-practice/simple-pig-latin/obj/Debug/net7.0/simple-pig-latin.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/simple-pig-latin/obj/Debug/net7.0/refint/simple-pig-latin.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/simple-pig-latin/obj/Debug/net7.0/simple-pig-latin.pdb
+/Users/maxmcdonough/Projects/c-sharp-practice/simple-pig-latin/obj/Debug/net7.0/simple-pig-latin.genruntimeconfig.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/simple-pig-latin/obj/Debug/net7.0/ref/simple-pig-latin.dll
