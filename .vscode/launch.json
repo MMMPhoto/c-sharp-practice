@@ -10,9 +10,9 @@
       "request": "launch",
       "preLaunchTask": "build",
       // If you have changed target frameworks, make sure to update the program path.
-      "program": "${workspaceFolder}/rot13/bin/Debug/net7.0/rot13.dll",
+      "program": "${workspaceFolder}/primes-in-numbers/bin/Debug/net7.0/primes-in-numbers.dll",
       "args": [],
-      "cwd": "${workspaceFolder}/rot13",
+      "cwd": "${workspaceFolder}/primes-in-numbers",
       // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
       "console": "internalConsole",
       "stopAtEntry": false

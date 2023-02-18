@@ -1,0 +1,15 @@
+/Users/maxmcdonough/Projects/c-sharp-practice/primes-in-numbers/bin/Debug/net7.0/primes-in-numbers
+/Users/maxmcdonough/Projects/c-sharp-practice/primes-in-numbers/bin/Debug/net7.0/primes-in-numbers.deps.json
+/Users/maxmcdonough/Projects/c-sharp-practice/primes-in-numbers/bin/Debug/net7.0/primes-in-numbers.runtimeconfig.json
+/Users/maxmcdonough/Projects/c-sharp-practice/primes-in-numbers/bin/Debug/net7.0/primes-in-numbers.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/primes-in-numbers/bin/Debug/net7.0/primes-in-numbers.pdb
+/Users/maxmcdonough/Projects/c-sharp-practice/primes-in-numbers/obj/Debug/net7.0/primes-in-numbers.csproj.AssemblyReference.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/primes-in-numbers/obj/Debug/net7.0/primes-in-numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxmcdonough/Projects/c-sharp-practice/primes-in-numbers/obj/Debug/net7.0/primes-in-numbers.AssemblyInfoInputs.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/primes-in-numbers/obj/Debug/net7.0/primes-in-numbers.AssemblyInfo.cs
+/Users/maxmcdonough/Projects/c-sharp-practice/primes-in-numbers/obj/Debug/net7.0/primes-in-numbers.csproj.CoreCompileInputs.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/primes-in-numbers/obj/Debug/net7.0/primes-in-numbers.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/primes-in-numbers/obj/Debug/net7.0/refint/primes-in-numbers.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/primes-in-numbers/obj/Debug/net7.0/primes-in-numbers.pdb
+/Users/maxmcdonough/Projects/c-sharp-practice/primes-in-numbers/obj/Debug/net7.0/primes-in-numbers.genruntimeconfig.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/primes-in-numbers/obj/Debug/net7.0/ref/primes-in-numbers.dll
