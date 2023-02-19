@@ -1,0 +1,15 @@
+/Users/maxmcdonough/Projects/c-sharp-practice/friend-cheating/bin/Debug/net7.0/friend-cheating
+/Users/maxmcdonough/Projects/c-sharp-practice/friend-cheating/bin/Debug/net7.0/friend-cheating.deps.json
+/Users/maxmcdonough/Projects/c-sharp-practice/friend-cheating/bin/Debug/net7.0/friend-cheating.runtimeconfig.json
+/Users/maxmcdonough/Projects/c-sharp-practice/friend-cheating/bin/Debug/net7.0/friend-cheating.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/friend-cheating/bin/Debug/net7.0/friend-cheating.pdb
+/Users/maxmcdonough/Projects/c-sharp-practice/friend-cheating/obj/Debug/net7.0/friend-cheating.csproj.AssemblyReference.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/friend-cheating/obj/Debug/net7.0/friend-cheating.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxmcdonough/Projects/c-sharp-practice/friend-cheating/obj/Debug/net7.0/friend-cheating.AssemblyInfoInputs.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/friend-cheating/obj/Debug/net7.0/friend-cheating.AssemblyInfo.cs
+/Users/maxmcdonough/Projects/c-sharp-practice/friend-cheating/obj/Debug/net7.0/friend-cheating.csproj.CoreCompileInputs.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/friend-cheating/obj/Debug/net7.0/friend-cheating.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/friend-cheating/obj/Debug/net7.0/refint/friend-cheating.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/friend-cheating/obj/Debug/net7.0/friend-cheating.pdb
+/Users/maxmcdonough/Projects/c-sharp-practice/friend-cheating/obj/Debug/net7.0/friend-cheating.genruntimeconfig.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/friend-cheating/obj/Debug/net7.0/ref/friend-cheating.dll
