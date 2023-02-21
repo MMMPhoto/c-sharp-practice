@@ -10,9 +10,9 @@
       "request": "launch",
       "preLaunchTask": "build",
       // If you have changed target frameworks, make sure to update the program path.
-      "program": "${workspaceFolder}/friend-cheating/bin/Debug/net7.0/friend-cheating.dll",
+      "program": "${workspaceFolder}/josephus-permutation/bin/Debug/net7.0/josephus-permutation.dll",
       "args": [],
-      "cwd": "${workspaceFolder}/friend-cheating",
+      "cwd": "${workspaceFolder}/josephus-permutation",
       // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
       "console": "internalConsole",
       "stopAtEntry": false

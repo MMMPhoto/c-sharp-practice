@@ -1,0 +1,15 @@
+/Users/maxmcdonough/Projects/c-sharp-practice/josephus-permutation/obj/Debug/net7.0/josephus-permutation.csproj.AssemblyReference.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/josephus-permutation/obj/Debug/net7.0/josephus-permutation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxmcdonough/Projects/c-sharp-practice/josephus-permutation/obj/Debug/net7.0/josephus-permutation.AssemblyInfoInputs.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/josephus-permutation/obj/Debug/net7.0/josephus-permutation.AssemblyInfo.cs
+/Users/maxmcdonough/Projects/c-sharp-practice/josephus-permutation/obj/Debug/net7.0/josephus-permutation.csproj.CoreCompileInputs.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/josephus-permutation/bin/Debug/net7.0/josephus-permutation
+/Users/maxmcdonough/Projects/c-sharp-practice/josephus-permutation/bin/Debug/net7.0/josephus-permutation.deps.json
+/Users/maxmcdonough/Projects/c-sharp-practice/josephus-permutation/bin/Debug/net7.0/josephus-permutation.runtimeconfig.json
+/Users/maxmcdonough/Projects/c-sharp-practice/josephus-permutation/bin/Debug/net7.0/josephus-permutation.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/josephus-permutation/bin/Debug/net7.0/josephus-permutation.pdb
+/Users/maxmcdonough/Projects/c-sharp-practice/josephus-permutation/obj/Debug/net7.0/josephus-permutation.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/josephus-permutation/obj/Debug/net7.0/refint/josephus-permutation.dll
+/Users/maxmcdonough/Projects/c-sharp-practice/josephus-permutation/obj/Debug/net7.0/josephus-permutation.pdb
+/Users/maxmcdonough/Projects/c-sharp-practice/josephus-permutation/obj/Debug/net7.0/josephus-permutation.genruntimeconfig.cache
+/Users/maxmcdonough/Projects/c-sharp-practice/josephus-permutation/obj/Debug/net7.0/ref/josephus-permutation.dll
